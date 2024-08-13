@@ -1,0 +1,190 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body
+{
+font-family:Sans-serif; 
+background-color: rgb(248, 249, 250); 
+padding: 18px; 
+color: black;
+}
+
+ul li{
+	list-style:none;
+	float: left;
+	padding-left:40px;
+	padding-right:40px;
+	padding-top:15px;
+	padding-bottom: 15px;
+}
+ul li:hover{
+	background-color:red;
+}
+ul a{
+	text-decoration:none;
+	color:white;
+}
+header{
+	display:inline-block;
+	background-color:black;
+	color:#fff;
+	width:100%;
+}
+.content{
+	top:-10px;
+	display:flex;
+	justify-content:space-around;
+	
+}
+article #contForService
+{
+	border-left:none !important;
+}
+article .Services
+{
+	width:30%;
+	border-left:1px solid black;
+	padding:10px;
+}
+#pngBank img
+{
+	margin-left:20px
+}
+.Services p
+{
+	text-align: justify;
+}
+@media only screen and (max-width: 900px) {
+ 	.content{
+	display: flex;
+	flex-direction: column;
+	width: 80%;
+	margin: auto;
+ 	}
+ article .Services{
+	width: 100%;
+	border-left:none;
+	}
+	
+	header{
+	width: 300%;
+	}
+ul{
+	visibility: hidden;
+	padding:0px;
+		
+	}
+}
+#hero
+{
+	margin:0px;
+	padding:0px;
+	display: flex;
+	width:100%;
+	justify-content: space-between;
+	color:black;
+
+}
+.hero-cont h1
+{
+	/*font-size: 100px;*/
+	font-size:7vw;
+	margin:0px;
+	color:red;
+	text-shadow: 2px 2px 5px black;
+}
+.hero-cont span
+{
+	font-family: Monospace;
+	font-weight: bold;
+	font-size: 20px;
+	float:right;
+	margin:0px;
+	text-shadow: 2px 2px 10px blue;
+}
+.hero-cont img
+{
+	width:150px;
+	padding:10px;
+}
+
+
+/*
+	input tag
+*/
+
+#newAcforFlex h1
+{
+	font-weight:bold;
+	font-size:30px;
+	text-align: center;
+}
+form{
+	margin-left:20px;
+}
+form input
+{
+	height: 20px;
+	outline: none;
+	
+}
+form input[type="submit"],input[type="reset"]
+{
+	outline:none;
+	border:none;
+	cursor: pointer;
+	height: 40px;
+	width: 80px;
+	border-radius: 8px;
+}
+form input[type="submit"]
+{
+	background-color:#0D6EFD;
+	color: white;
+	margin-left:40px;
+	margin-top: 10px;
+	
+}
+form input[type="submit"]:hover
+{
+	background-color:#6E6EFD;
+	color: white;
+	
+}
+
+form input[type="reset"]
+{
+		background-color:#DC3545;
+		color:white;
+}
+
+form input[type="reset"]:hover
+{
+		background-color:#DC5D45;
+		color:white;
+}
+div .candidate-details
+{
+	margin:0px;
+	padding:0px;
+	margin-top:12px;
+	display:flex; 
+	justify-content: center; 
+	padding:15px;
+}
+
+ .candidate-details table
+ {
+ 	border-collapse: collapse;
+ }
+ .candidate-details table th
+ {
+ 	float: left;
+ 	padding:5px;
+ }
+  .candidate-details table td
+  {
+  padding-left:15px;
+  }
+ 

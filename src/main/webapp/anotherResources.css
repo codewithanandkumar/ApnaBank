@@ -1,0 +1,10 @@
+.another-resources
+{
+	display: flex;
+	justify-content: space-between;
+}
+.cont-res
+{
+width:48%;
+height:600px;
+}
