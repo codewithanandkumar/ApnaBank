@@ -36,6 +36,40 @@
   </li>
 </ul>
 
+<h3>Project View</h3>
+<p>Some ScreenShort of this project are given below</p>
+
+<h2>Home-Page</h2>
+
+
+![1 Home](https://github.com/user-attachments/assets/383ed4ae-5a8b-44f3-bef1-098f731ae30f)
+
+<h2>New Account Opening</h2>
+
+
+![2 NewAccount](https://github.com/user-attachments/assets/1eac4b2d-e3d2-4915-8dc7-39f465cf0a9a)
+
+
+
+![3 NewAccount](https://github.com/user-attachments/assets/1d1b7818-75e2-47ef-86c0-5e280ab66373)
+
+
+![4 NewAccount](https://github.com/user-attachments/assets/c78c79af-0e9a-4e89-9479-dcba71a80757)
+
+<h2>Balance Form to Check the Account-Balance</h2>
+
+
+![5 BalanceForm](https://github.com/user-attachments/assets/511690c8-30c6-4eb3-8cf2-c4efc2a60961)
+
+
+
+![6 BalanceForm](https://github.com/user-attachments/assets/35cf9643-6bba-41c9-992a-fc2306d8dfdf)
+
+
+
+
+
+
 
 
 
